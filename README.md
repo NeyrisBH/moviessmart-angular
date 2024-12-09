@@ -17,6 +17,26 @@
 - **Marvel API**: Fuente de datos para los cómics, series, eventos y escritores.
 - **SCSS/CSS**: Para el diseño visual y la personalización de estilos.
 
+## Pantallazos
+
+### Página de Inicio
+![Página de Inicio](screenshots/home.png)
+
+### Sección de Series
+![Series](screenshots/series.png)
+
+### Detalles de un Evento
+![Evento Detalle](screenshots/events.png)
+
+### Información de Escritores
+![Escritores](screenshots/writers.png)
+
+### Página 404
+![Escritores](screenshots/404.png)
+
+> Coloca las capturas de pantalla en una carpeta llamada `screenshots` en el directorio raíz del proyecto y actualiza los nombres de archivo según corresponda.
+
+
 ## Requisitos Previos
 
 Antes de comenzar, asegúrate de tener instalado:
