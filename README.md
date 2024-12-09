@@ -34,8 +34,6 @@
 ### Página 404
 ![Escritores](screenshots/404.png)
 
-> Coloca las capturas de pantalla en una carpeta llamada `screenshots` en el directorio raíz del proyecto y actualiza los nombres de archivo según corresponda.
-
 
 ## Requisitos Previos
 
