@@ -76,8 +76,5 @@ Licencia
 
 Este proyecto está bajo la licencia MIT.
 
-¡Gracias por usar MoviesSmart Angular! 💻✨
-
-
-Si necesitas personalizar algo más, como agregar imágenes o secciones específicas, avísame. 😊
+> ¡Gracias por usar MoviesSmart Angular! 💻✨
 
